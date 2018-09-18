@@ -1,0 +1,32 @@
+body {
+	font-family: 'Noto Serif JP', sans-serif;
+	color:rgba(0,0,0,.9);
+	text-align:center;
+	/*text-transform:uppercase;*/
+	letter-spacing:.4em;
+	top:;
+	background:linear-gradient(to right, white, #9292ed);
+	/*width:100%;*/
+}
+
+h1 {
+	font:;
+	color:;
+	text-align:;
+	text-transform:;
+	letter-spacing:;
+	top:;
+	background:;
+	width:;
+}
+
+h3 {
+	font:;
+	color:;
+	text-align:;
+	text-transform:;
+	letter-spacing:;
+	top:;
+	background:;
+	width:;
+}

@@ -1,1 +1,1 @@
-# linear-gradient
+This tool lets you see what any two color gradient looks like.
